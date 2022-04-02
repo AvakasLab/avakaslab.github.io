@@ -18,9 +18,9 @@ Research
 
 Current Projects
 ======
-1. CanSat for Highschool Space Education
-2. Development CubeSat Operation System
-3. Simulation of Satellite for Low Earth Orbit (LEO) Mission
+1. Training kits for Space Education in Highschool
+2. Development of CubeSat Operating System (OS)
+3. Development of Dynamics Simulation of Satellite for Low Earth Orbit (LEO) Mission
 
 How to Get Involved
 ======
